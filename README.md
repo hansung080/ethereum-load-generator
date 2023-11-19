@@ -1,6 +1,6 @@
 # Ethereum Load Generator
 
-## Supportable Blockchains
+## Supported Blockchains
 - Ethereum
 - Quorum
 
